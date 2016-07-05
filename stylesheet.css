@@ -31,6 +31,7 @@
 img{
 	height: 30%;
 	width: 30%;
+	padding-bottom: 20px;
 	display: block;
 	margin: auto;
 }
@@ -49,9 +50,6 @@ form{
 	display: inline; 
 }
 #head {
-	/*
-	create table icon
-	*/
 	font-weight: lighter;
 	text-align: right;
 }
